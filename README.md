@@ -104,7 +104,13 @@ Makes it easy to find food you like within your price range and food interests. 
 ---
 
 ### Wireframes
-Coming soon
+Wireframe photos:
+
+<img src="https://github.com/Group31/CodePath-Android-App/blob/master/Foodie%20Wireframe.png" width=1000> <br>
+
+Interactive prototype:
+
+<img src="https://github.com/Group31/CodePath-Android-App/blob/master/interactive%20prototype.gif" width=200><br>
 
 ---
 
