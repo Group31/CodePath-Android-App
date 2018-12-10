@@ -115,4 +115,4 @@ Interactive prototype:
 ---
 
 ### App Pitch Presentation
-Coming soon
+[Click here](https://docs.google.com/presentation/d/1iQG6k_gNYaFI_4wgsyE4ZOQWk5TLYn_iYBA_L1bYWE0/edit?usp=sharing)
